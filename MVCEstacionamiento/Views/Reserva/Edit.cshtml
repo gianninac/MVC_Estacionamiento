@@ -1,0 +1,59 @@
+﻿@model MVCEstacionamiento.Models.Reserva
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Reserva</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="ClienteId" class="control-label"></label>
+                <select asp-for="ClienteId" class="form-control" asp-items="ViewBag.ClienteId"></select>
+                <span asp-validation-for="ClienteId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EspacioId" class="control-label"></label>
+                <select asp-for="EspacioId" class="form-control" asp-items="ViewBag.EspacioId"></select>
+                <span asp-validation-for="EspacioId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FechaIngreso" class="control-label"></label>
+                <input asp-for="FechaIngreso" class="form-control" />
+                <span asp-validation-for="FechaIngreso" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FechaEgreso" class="control-label"></label>
+                <input asp-for="FechaEgreso" class="form-control" />
+                <span asp-validation-for="FechaEgreso" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="HoraIngreso" class="control-label"></label>
+                <input asp-for="HoraIngreso" class="form-control" />
+                <span asp-validation-for="HoraIngreso" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="HoraEgreso" class="control-label"></label>
+                <input asp-for="HoraEgreso" class="form-control" />
+                <span asp-validation-for="HoraEgreso" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

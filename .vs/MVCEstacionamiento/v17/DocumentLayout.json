@@ -1,0 +1,606 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|c:\\users\\carle\\source\\repos\\mvcestacionamiento\\mvcestacionamiento\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|solutionrelative:mvcestacionamiento\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|c:\\users\\carle\\source\\repos\\mvcestacionamiento\\mvcestacionamiento\\models\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|solutionrelative:mvcestacionamiento\\models\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|c:\\users\\carle\\source\\repos\\mvcestacionamiento\\mvcestacionamiento\\controllers\\espaciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|solutionrelative:mvcestacionamiento\\controllers\\espaciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|c:\\users\\carle\\source\\repos\\mvcestacionamiento\\mvcestacionamiento\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|solutionrelative:mvcestacionamiento\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|c:\\users\\carle\\source\\repos\\mvcestacionamiento\\mvcestacionamiento\\context\\estacionamientodatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|solutionrelative:mvcestacionamiento\\context\\estacionamientodatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|c:\\users\\carle\\source\\repos\\mvcestacionamiento\\mvcestacionamiento\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|solutionrelative:mvcestacionamiento\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|c:\\users\\carle\\source\\repos\\mvcestacionamiento\\mvcestacionamiento\\views\\espacio\\mostrarespaciosdisponibles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|solutionrelative:mvcestacionamiento\\views\\espacio\\mostrarespaciosdisponibles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|c:\\users\\carle\\source\\repos\\mvcestacionamiento\\mvcestacionamiento\\models\\recibodepago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|solutionrelative:mvcestacionamiento\\models\\recibodepago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|c:\\users\\carle\\source\\repos\\mvcestacionamiento\\mvcestacionamiento\\models\\espacio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|solutionrelative:mvcestacionamiento\\models\\espacio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|c:\\users\\carle\\source\\repos\\mvcestacionamiento\\mvcestacionamiento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|solutionrelative:mvcestacionamiento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|c:\\users\\carle\\source\\repos\\mvcestacionamiento\\mvcestacionamiento\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|solutionrelative:mvcestacionamiento\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|c:\\users\\carle\\source\\repos\\mvcestacionamiento\\mvcestacionamiento\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|solutionrelative:mvcestacionamiento\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|c:\\users\\carle\\source\\repos\\mvcestacionamiento\\mvcestacionamiento\\views\\cliente\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|solutionrelative:mvcestacionamiento\\views\\cliente\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|c:\\users\\carle\\source\\repos\\mvcestacionamiento\\mvcestacionamiento\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|solutionrelative:mvcestacionamiento\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|c:\\users\\carle\\source\\repos\\mvcestacionamiento\\mvcestacionamiento\\views\\espacio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|solutionrelative:mvcestacionamiento\\views\\espacio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|c:\\users\\carle\\source\\repos\\mvcestacionamiento\\mvcestacionamiento\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|solutionrelative:mvcestacionamiento\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|c:\\users\\carle\\source\\repos\\mvcestacionamiento\\mvcestacionamiento\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|solutionrelative:mvcestacionamiento\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|c:\\users\\carle\\source\\repos\\mvcestacionamiento\\mvcestacionamiento\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|solutionrelative:mvcestacionamiento\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|c:\\users\\carle\\source\\repos\\mvcestacionamiento\\mvcestacionamiento\\views\\reserva\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|solutionrelative:mvcestacionamiento\\views\\reserva\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|c:\\users\\carle\\source\\repos\\mvcestacionamiento\\mvcestacionamiento\\controllers\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|solutionrelative:mvcestacionamiento\\controllers\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|c:\\users\\carle\\source\\repos\\mvcestacionamiento\\mvcestacionamiento\\views\\vehiculo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|solutionrelative:mvcestacionamiento\\views\\vehiculo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|c:\\users\\carle\\source\\repos\\mvcestacionamiento\\mvcestacionamiento\\controllers\\vehiculocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|solutionrelative:mvcestacionamiento\\controllers\\vehiculocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|c:\\users\\carle\\source\\repos\\mvcestacionamiento\\mvcestacionamiento\\views\\espacio\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|solutionrelative:mvcestacionamiento\\views\\espacio\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|c:\\users\\carle\\source\\repos\\mvcestacionamiento\\mvcestacionamiento\\views\\espacio\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|solutionrelative:mvcestacionamiento\\views\\espacio\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|c:\\users\\carle\\source\\repos\\mvcestacionamiento\\mvcestacionamiento\\views\\cliente\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|solutionrelative:mvcestacionamiento\\views\\cliente\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|c:\\users\\carle\\source\\repos\\mvcestacionamiento\\mvcestacionamiento\\views\\vehiculo\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|solutionrelative:mvcestacionamiento\\views\\vehiculo\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|c:\\users\\carle\\source\\repos\\mvcestacionamiento\\mvcestacionamiento\\views\\vehiculo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|solutionrelative:mvcestacionamiento\\views\\vehiculo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|c:\\users\\carle\\source\\repos\\mvcestacionamiento\\mvcestacionamiento\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|solutionrelative:mvcestacionamiento\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|c:\\users\\carle\\source\\repos\\mvcestacionamiento\\mvcestacionamiento\\views\\vehiculo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|solutionrelative:mvcestacionamiento\\views\\vehiculo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|c:\\users\\carle\\source\\repos\\mvcestacionamiento\\mvcestacionamiento\\migrations\\20240624203047_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|solutionrelative:mvcestacionamiento\\migrations\\20240624203047_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|c:\\users\\carle\\source\\repos\\mvcestacionamiento\\mvcestacionamiento\\models\\tipovehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|solutionrelative:mvcestacionamiento\\models\\tipovehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|c:\\users\\carle\\source\\repos\\mvcestacionamiento\\mvcestacionamiento\\migrations\\20240624173631_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|solutionrelative:mvcestacionamiento\\migrations\\20240624173631_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|c:\\users\\carle\\source\\repos\\mvcestacionamiento\\mvcestacionamiento\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|solutionrelative:mvcestacionamiento\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|c:\\users\\carle\\source\\repos\\mvcestacionamiento\\mvcestacionamiento\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|solutionrelative:mvcestacionamiento\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\carle\\source\\repos\\MVCBasico\\MVCBasico\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|c:\\users\\carle\\source\\repos\\mvcestacionamiento\\mvcestacionamiento\\migrations\\20240625050702_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53CE1B7C-0092-4BD7-9860-F83FB593BE3D}|MVCEstacionamiento\\MVCEstacionamiento.csproj|solutionrelative:mvcestacionamiento\\migrations\\20240625050702_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Models\\Reserva.cs",
+              "RelativeDocumentMoniker": "MVCEstacionamiento\\Models\\Reserva.cs",
+              "ToolTip": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Models\\Reserva.cs",
+              "RelativeToolTip": "MVCEstacionamiento\\Models\\Reserva.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAIwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T13:11:41.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EspacioController.cs",
+              "DocumentMoniker": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Controllers\\EspacioController.cs",
+              "RelativeDocumentMoniker": "MVCEstacionamiento\\Controllers\\EspacioController.cs",
+              "ToolTip": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Controllers\\EspacioController.cs",
+              "RelativeToolTip": "MVCEstacionamiento\\Controllers\\EspacioController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T21:40:18.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EstacionamientoDatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Context\\EstacionamientoDatabaseContext.cs",
+              "RelativeDocumentMoniker": "MVCEstacionamiento\\Context\\EstacionamientoDatabaseContext.cs",
+              "ToolTip": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Context\\EstacionamientoDatabaseContext.cs",
+              "RelativeToolTip": "MVCEstacionamiento\\Context\\EstacionamientoDatabaseContext.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAA8AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T15:58:47.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "MVCEstacionamiento\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "MVCEstacionamiento\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAAD8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T18:07:24.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Models\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "MVCEstacionamiento\\Models\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Models\\Vehiculo.cs",
+              "RelativeToolTip": "MVCEstacionamiento\\Models\\Vehiculo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T02:04:35.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCEstacionamiento\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCEstacionamiento\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T00:19:05.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReciboDePago.cs",
+              "DocumentMoniker": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Models\\ReciboDePago.cs",
+              "RelativeDocumentMoniker": "MVCEstacionamiento\\Models\\ReciboDePago.cs",
+              "ToolTip": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Models\\ReciboDePago.cs",
+              "RelativeToolTip": "MVCEstacionamiento\\Models\\ReciboDePago.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T14:43:51.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Espacio.cs",
+              "DocumentMoniker": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Models\\Espacio.cs",
+              "RelativeDocumentMoniker": "MVCEstacionamiento\\Models\\Espacio.cs",
+              "ToolTip": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Models\\Espacio.cs",
+              "RelativeToolTip": "MVCEstacionamiento\\Models\\Espacio.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T01:50:26.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MostrarEspaciosDisponibles.cshtml",
+              "DocumentMoniker": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Views\\Espacio\\MostrarEspaciosDisponibles.cshtml",
+              "RelativeDocumentMoniker": "MVCEstacionamiento\\Views\\Espacio\\MostrarEspaciosDisponibles.cshtml",
+              "ToolTip": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Views\\Espacio\\MostrarEspaciosDisponibles.cshtml",
+              "RelativeToolTip": "MVCEstacionamiento\\Views\\Espacio\\MostrarEspaciosDisponibles.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T22:43:32.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Program.cs",
+              "RelativeDocumentMoniker": "MVCEstacionamiento\\Program.cs",
+              "ToolTip": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Program.cs",
+              "RelativeToolTip": "MVCEstacionamiento\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T16:30:55.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\appsettings.json",
+              "RelativeDocumentMoniker": "MVCEstacionamiento\\appsettings.json",
+              "ToolTip": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\appsettings.json",
+              "RelativeToolTip": "MVCEstacionamiento\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-24T16:08:51.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "MVCEstacionamiento\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Models\\Cliente.cs",
+              "RelativeToolTip": "MVCEstacionamiento\\Models\\Cliente.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAACIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T00:38:48.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Views\\Cliente\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCEstacionamiento\\Views\\Cliente\\Index.cshtml",
+              "ToolTip": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Views\\Cliente\\Index.cshtml",
+              "RelativeToolTip": "MVCEstacionamiento\\Views\\Cliente\\Index.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T18:47:34.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Views\\Cliente\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVCEstacionamiento\\Views\\Cliente\\Create.cshtml",
+              "ToolTip": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Views\\Cliente\\Create.cshtml",
+              "RelativeToolTip": "MVCEstacionamiento\\Views\\Cliente\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T18:47:20.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Views\\Espacio\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCEstacionamiento\\Views\\Espacio\\Index.cshtml",
+              "ToolTip": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Views\\Espacio\\Index.cshtml",
+              "RelativeToolTip": "MVCEstacionamiento\\Views\\Espacio\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T21:43:47.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20240625050702_third.cs",
+              "DocumentMoniker": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Migrations\\20240625050702_third.cs",
+              "RelativeDocumentMoniker": "MVCEstacionamiento\\Migrations\\20240625050702_third.cs",
+              "ToolTip": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Migrations\\20240625050702_third.cs",
+              "RelativeToolTip": "MVCEstacionamiento\\Migrations\\20240625050702_third.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T05:07:02.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Views\\Reserva\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCEstacionamiento\\Views\\Reserva\\Index.cshtml",
+              "ToolTip": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Views\\Reserva\\Index.cshtml",
+              "RelativeToolTip": "MVCEstacionamiento\\Views\\Reserva\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T00:15:08.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCEstacionamiento\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVCEstacionamiento\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAADwvxcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T19:29:40.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "additional-methods.js",
+              "DocumentMoniker": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeDocumentMoniker": "MVCEstacionamiento\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ToolTip": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeToolTip": "MVCEstacionamiento\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAAKgAAACAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-25T02:40:44.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "jquery.validate.js",
+              "DocumentMoniker": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+              "RelativeDocumentMoniker": "MVCEstacionamiento\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+              "ToolTip": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+              "RelativeToolTip": "MVCEstacionamiento\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+              "ViewState": "AQIAAG0EAAAAAAAAAAAiwHEEAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-25T02:43:21.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ReservaController.cs",
+              "DocumentMoniker": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Controllers\\ReservaController.cs",
+              "RelativeDocumentMoniker": "MVCEstacionamiento\\Controllers\\ReservaController.cs",
+              "ToolTip": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Controllers\\ReservaController.cs",
+              "RelativeToolTip": "MVCEstacionamiento\\Controllers\\ReservaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T00:09:38.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Views\\Espacio\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVCEstacionamiento\\Views\\Espacio\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Views\\Espacio\\Edit.cshtml",
+              "RelativeToolTip": "MVCEstacionamiento\\Views\\Espacio\\Edit.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T23:11:46.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Views\\Espacio\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVCEstacionamiento\\Views\\Espacio\\Details.cshtml",
+              "ToolTip": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Views\\Espacio\\Details.cshtml",
+              "RelativeToolTip": "MVCEstacionamiento\\Views\\Espacio\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T22:43:42.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Views\\Cliente\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVCEstacionamiento\\Views\\Cliente\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Views\\Cliente\\Edit.cshtml",
+              "RelativeToolTip": "MVCEstacionamiento\\Views\\Cliente\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T21:20:51.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Views\\Vehiculo\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MVCEstacionamiento\\Views\\Vehiculo\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Views\\Vehiculo\\Delete.cshtml",
+              "RelativeToolTip": "MVCEstacionamiento\\Views\\Vehiculo\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T21:18:29.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MVCEstacionamiento\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MVCEstacionamiento\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T21:17:03.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Views\\Vehiculo\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVCEstacionamiento\\Views\\Vehiculo\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Views\\Vehiculo\\Edit.cshtml",
+              "RelativeToolTip": "MVCEstacionamiento\\Views\\Vehiculo\\Edit.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T20:50:19.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Views\\Vehiculo\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVCEstacionamiento\\Views\\Vehiculo\\Create.cshtml",
+              "ToolTip": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Views\\Vehiculo\\Create.cshtml",
+              "RelativeToolTip": "MVCEstacionamiento\\Views\\Vehiculo\\Create.cshtml",
+              "ViewState": "AQIAACAAAAAAAAAAAADwvycAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T20:47:06.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Views\\Vehiculo\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCEstacionamiento\\Views\\Vehiculo\\Index.cshtml",
+              "ToolTip": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Views\\Vehiculo\\Index.cshtml",
+              "RelativeToolTip": "MVCEstacionamiento\\Views\\Vehiculo\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T20:44:29.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "VehiculoController.cs",
+              "DocumentMoniker": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Controllers\\VehiculoController.cs",
+              "RelativeDocumentMoniker": "MVCEstacionamiento\\Controllers\\VehiculoController.cs",
+              "ToolTip": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Controllers\\VehiculoController.cs",
+              "RelativeToolTip": "MVCEstacionamiento\\Controllers\\VehiculoController.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAAAKEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T20:40:33.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20240624203047_second.cs",
+              "DocumentMoniker": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Migrations\\20240624203047_second.cs",
+              "RelativeDocumentMoniker": "MVCEstacionamiento\\Migrations\\20240624203047_second.cs",
+              "ToolTip": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Migrations\\20240624203047_second.cs",
+              "RelativeToolTip": "MVCEstacionamiento\\Migrations\\20240624203047_second.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T20:30:47.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "MVCEstacionamiento\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "MVCEstacionamiento\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T18:39:04.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20240624173631_init.cs",
+              "DocumentMoniker": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Migrations\\20240624173631_init.cs",
+              "RelativeDocumentMoniker": "MVCEstacionamiento\\Migrations\\20240624173631_init.cs",
+              "ToolTip": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Migrations\\20240624173631_init.cs",
+              "RelativeToolTip": "MVCEstacionamiento\\Migrations\\20240624173631_init.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAAEwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T17:36:31.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCEstacionamiento\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCEstacionamiento\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T16:12:32.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\carle\\source\\repos\\MVCBasico\\MVCBasico\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\MVCBasico\\MVCBasico\\appsettings.json",
+              "ToolTip": "C:\\Users\\carle\\source\\repos\\MVCBasico\\MVCBasico\\appsettings.json",
+              "RelativeToolTip": "..\\MVCBasico\\MVCBasico\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-24T16:09:15.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TipoVehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Models\\TipoVehiculo.cs",
+              "RelativeDocumentMoniker": "MVCEstacionamiento\\Models\\TipoVehiculo.cs",
+              "ToolTip": "C:\\Users\\carle\\source\\repos\\MVCEstacionamiento\\MVCEstacionamiento\\Models\\TipoVehiculo.cs",
+              "RelativeToolTip": "MVCEstacionamiento\\Models\\TipoVehiculo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T01:45:18.275Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

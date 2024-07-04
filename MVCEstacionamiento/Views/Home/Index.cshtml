@@ -1,0 +1,43 @@
+﻿@* @{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div> *@
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+<h2 class="display-4" style="color: #007bff; text-align: center; margin-top: 20px; margin-bottom:20px;">
+    Bienvenido a Estacionamiento G1
+</h2>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <h4>Consulte disponibilidad</h4>
+        <p>Verifique los espacios de estacionamiento disponibles antes de realizar una reserva.</p>
+        <p><a class="btn btn-outline-primary" href="/Espacio/MostrarEspaciosDisponibles">Ver espacios disponibles &raquo;</a></p>
+    </div>
+
+    <div class="col-md-4">
+        <h4>Registre nuevos clientes </h4>
+        <p>
+            Estacionamiento G1 ofrece un servicio de reserva de espacios de estacionamiento
+            de manera fácil y rápida. Reserve su espacio en línea y asegure su lugar.
+        </p>
+        <p><a class="btn btn-outline-primary" href="/Cliente/Create">Registrar ahora &raquo;</a></p>
+    </div>
+   
+    <div class="col-md-4">
+        <h4>Reserve Espacio</h4>
+        <p>Puede reservar su espacio de estacionamiento siguiendo unos simples pasos en nuestro sistema.</p>
+        <p><a class="btn btn-outline-primary" href="/Reserva/Create">Reservar ahora &raquo;</a></p>
+    </div>
+    
+</div>
+
